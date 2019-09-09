@@ -14,6 +14,10 @@
     },
     "minimum-stability": "stable",
     "require": {
+        "aura/autoload": "^2.0",
+        "laravel/framework": "5.8.*",
+        "jgrossi/corcel": "^2.8",
+        "corcel/acf": "^1.1",
         "laravelium/feed": "^3.0"
     },
     "extra": {
