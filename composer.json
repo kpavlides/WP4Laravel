@@ -14,8 +14,6 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "aura/autoload": "^2.0",
-        "corcel/acf": "^1.1",
         "laravelium/feed": "^3.0"
     },
     "extra": {
